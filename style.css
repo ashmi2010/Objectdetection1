@@ -1,0 +1,28 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: #1a293a;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-variant: small-caps;
+    border-radius: 10px;
+}
+
+body{
+   background-size: cover;
+   background-position: center;
+}
+
+a{
+ background-color: rgb(74, 23, 93);
+ border-radius: 10px;
+ font-size: 20;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-weight: 700;
+ font-style: oblique;
+ color: aliceblue;
+ margin-top: 20px;
+ border-style: double;
+ border-width: 10px;
+}
